@@ -10,6 +10,9 @@ finds hot spots (e.g. ``219 comments'', ``3344 points'') on social web
 sites, and highlights the spots using different shades of color based
 on the relative hotness.
 
+It's useful because it saves your time! It makes it easier to pick up
+the most valuable content on the page so that you can skim the rest.
+
 See the screenshot to get a feel how it works:
 
     https://github.com/wuzhe/social-hotness/raw/master/screenshots/yc_1.png
