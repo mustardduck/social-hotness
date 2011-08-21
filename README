@@ -10,6 +10,10 @@ finds hot spots (e.g. ``219 comments'', ``3344 points'') on social web
 sites, and highlights the spots using different shades of color based
 on the relative hotness.
 
+See the screenshot to get a feel how it works:
+
+    https://github.com/wuzhe/social-hotness/raw/master/screenshots/yc_1.png
+
 Install the extension and head to http://news.ycombinator.com to see
 it in action.
 
