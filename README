@@ -13,6 +13,13 @@ on the relative hotness.
 Install the extension and head to http://news.ycombinator.com to see
 it in action.
 
-Click to install:
+How to install:
 
-    https://raw.github.org/wuzhe/social-hotness/master/social-hotness.crx
+  1. click to download
+
+         https://raw.github.com/wuzhe/social-hotness/master/social-hotness.crx
+
+  2. drag the downloaded ``social-hotness.crx'' file chrome window.
+
+
+Author: Wu Zhe <wu@madk.org>
