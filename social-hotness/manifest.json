@@ -1,0 +1,19 @@
+{
+    "name": "Social Hotness",
+    "version": "0.1",
+    "description": "Find hot spots on social sites and highlight them with different shades of color!",
+    "homepage_url": "http://github.com/wuzhe/social-hotness",
+    "update_url": "https://raw.github.com/wuzhe/social-hotness/master/updates.xml",
+    "icons": { "16": "img/icon16.png",
+               "48": "img/icon48.png",
+               "128": "img/icon128.png" },
+    "content_scripts": [
+        {"matches": ["http://news.ycombinator.com/*",
+                     "https://news.ycombinator.com/*",
+                     "http://*.reddit.com/*",
+                     "https://*.reddit.com/*",
+                     "http://*.facebook.com/*",
+                     "https://*.facebook.com/*"],
+         "js": ["jquery-1.6.2.min.js", "hotness.js"]}
+    ]
+}
